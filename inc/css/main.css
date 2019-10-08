@@ -25,15 +25,11 @@ a:hover {
   color: #aaa;
 }
 
-a[href^="tel:"]:before {
+/* a[href^="tel:"]:before {
   content: "\260e";
   margin-right: 0.5em;
-}
+} */
 
 .bold {
   font-weight: bold;
-}
-
-.nobull {
-  list-style-type: none;
 }
