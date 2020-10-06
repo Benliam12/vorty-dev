@@ -1,3 +1,7 @@
+/*
+Main CSS FILE.
+*/
+
 html {
   background-color: #000;
   font-family: monospace;
@@ -14,10 +18,6 @@ h1,h2,h3,h4,h5,h6 {
   text-decoration: none;
 }
 
-/* h2 {
-	color: #f00;
-} */
-
 a {
   text-decoration: none;
   color: #f00;
@@ -30,11 +30,6 @@ a:hover {
 a:hover.active {
   color: #fff;
 }
-
-/* a[href^="tel:"]:before {
-  content: "\260e";
-  margin-right: 0.5em;
-} */
 
 .navbar {
   overflow: hidden;
